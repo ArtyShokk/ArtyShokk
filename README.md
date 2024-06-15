@@ -44,8 +44,7 @@
 
 ## Тестовая документация 
   <div>
-    <img src="http://www.w3.org/2000/svg" title="Atlassian jira" alt="Atlassian jira" width="40" height="40"/>&nbsp
-    <img src="https://logosandtypes.com/wp-content/uploads/2023/03/clickup.svg" title="ClickUp" alt="ClickUp" width="40" height="40"/>&nbsp
+    <img src="https://drive.google.com/file/d/1zViCfF7w6kzeV8p3vHoz1_7tlS8ItgP1/view" title="Atlassian Jira/Confluence" alt="Atlassian Jira/Confluence" width="40" height="40"/>&nbsp
     <img src="https://docs.testit.software/images/testit_logo_icon_blue.png" title="Test It" alt="Test It" width="40" height="40"/>&nbsp
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Notion-Dark.svg" title="Notion" alt="Notion" width="40" height="40"/>&nbsp
   </div>
