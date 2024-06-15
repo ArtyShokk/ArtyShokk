@@ -44,7 +44,7 @@
 
 ## Тестовая документация 
   <div>
-    <img src="https://drive.google.com/file/d/1zViCfF7w6kzeV8p3vHoz1_7tlS8ItgP1/view?usp=sharing" title="Atlassian Jira/Confluence" alt="Atlassian Jira/Confluence" width="40" height="40"/>&nbsp
+    <img src="https://camo.githubusercontent.com/e0bdbae01cb55b529f71fcffe1a10a426621c879ff41212f9820629b0dd5b670/68747470733a2f2f61746c61737369616e2e67616c6c65727963646e2e76736173736574732e696f2f657874656e73696f6e732f61746c61737369616e2f61746c6173636f64652f312e342e302f313535383132333132313437352f4d6963726f736f66742e56697375616c53747564696f2e53657276696365732e49636f6e732e44656661756c74" title="Atlassian Jira/Confluence" alt="Atlassian Jira/Confluence" width="40" height="40"/>&nbsp
     <img src="https://docs.testit.software/images/testit_logo_icon_blue.png" title="Test It" alt="Test It" width="40" height="40"/>&nbsp
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Notion-Dark.svg" title="Notion" alt="Notion" width="40" height="40"/>&nbsp
   </div>
